@@ -474,9 +474,15 @@
 
 					// 验证地址非空
 					invate_val1 = null;
-					if (!web3.toBigNumber(result[0].toString()).isZero()) {
-						invate_val1 = result[0].toString();
+					console.log(result[0].toString());
+					if (result[0].toString() != "0x") {
+						if (!web3.toBigNumber(result[0].toString()).isZero()) {
+							invate_val1 = result[0].toString();
+						}
+					} else {
+						hideLoading();
 					}
+
 					invate_val2 = result[1].toString();
 					if (isJoin) {
 						invate_val3 = serverURL + "?inviteAddress=" + senderAddress;
