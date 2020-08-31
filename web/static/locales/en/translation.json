@@ -1,0 +1,88 @@
+{
+	"ban": {
+		"title": "Players'Grand Banquet",
+		"time": "Starting at 2020.08.06"
+	},
+	"count": {
+		"title": "Countdown",
+		"text": "The Grand Prize Pool will be awarded once every 24 hours. For each new investment, the time will be extended by 3 hours, and 100% of the prize pool will be awarded to the last 500 players with the largest investment. The small prize pool will be awarded once every 24 hours, 1/3 for the first prize, 1/3 for the second prize, and 1/3 for the third prize."
+	},
+	"tab": {
+		"tab1": "Participate",
+		"tab2": "Ticket",
+		"tab3": "Invite",
+		"tab4": "Rule"
+	},
+	"tabText": {
+		"text1": "Current burning ratio",
+		"text2": "Purchase admission tickets",
+		"text31": "My referee is:",
+		"text32": "My direct push quantity:",
+		"text33": "My invitation link:",
+		"text4": "<li>An account can only accept one investment before exiting, and can continue to invest after exiting.</li><li>Static dividends fluctuate from 0.3% to 2.2% per day.</li><li>Out of the game, according to 1-10 for the investment amount of 3 times, 11-30 for the investment amount of 4 times, greater than 31 for the investment amount of 5 times.</li><li>Dynamic recommendation 25% according to: 10%->8%->7% to get dynamic rewards, instant cash withdrawal.</li><li>After the prize pool reaches the specified time, the prize pool will not settle until the next round is opened.</li><li>After the prize pool reaches the specified time, it will not be deposited, and the investment amount will directly enter the dividend income.</li><li>Dynamically precipitates into a red pool if the conditions are not met.</li>"
+	},
+	"statistics": {
+		"title": "Statistical data",
+		"note": "Join now",
+		"tab1": "My income",
+		"tab2": "statistics",
+		"tab3": "Team information",
+		"link1": "Grand Prize Pool",
+		"link2": "Little prize pool",
+		"link3": "View my statistics",
+		"tip1": "24 hours",
+		"tip2": "People"
+	},
+	"option": {
+		"opt1": "User level",
+		"opt2": "User team level",
+		"opt3": "Settled dividend income",
+		"opt4": "Referral reward",
+		"opt5": "Management award income",
+		"opt6": "Dividend cycle",
+		"opt7": "N times the move is still",
+		"opt8": "Unsettled projected earnings",
+		"opt9": "Number of unwithdrawn coins",
+
+		"opt10": "Total management award deadlock",
+		"opt11": "Total funds invested",
+		"opt12": "Number of one-level managers",
+		"opt13": "Number of two-level managers",
+		"opt14": "Number of three-level managers",
+		"opt15": "Number of four-level managers",
+
+		"opt16": "Number of one-level",
+		"opt17": "Number of two-level",
+		"opt18": "Number of three-level",
+		"opt19": "Number of four-level",
+		"opt20": "Number of five-level",
+		"opt21": "Number of six-level"
+	},
+	"button": {
+		"text1": "Withdraw income",
+		"text2": "Copy my invitation link",
+		"text3": "Send ETH",
+		"text4": "Settle",
+		"text5": "withdraw"
+	},
+	"record": {
+		"opt1": "Grand Prize Pool",
+		"opt2": "Little prize pool",
+		"opt3": "View my statistics"
+	},
+	"website": {
+		"title": "This isthe title of <span>the website</span>",
+		"describe": "This is the description of the website"
+	},
+
+	"alertMsg": {
+		"tip1": "Referrer address is empty!",
+		"tip2": "The referrer address cannot be the current wallet address!",
+		"tip3": "Please enter the amount of ETH to send!",
+		"tip4": "Please enter the legal amount of ETH!",
+		"tip5": "The amount of ETH sent is at least 1!",
+		"tip6": "There is no settleable ETH income!",
+		"tip7": "Insufficient ETH, the minimum withdrawal is 0.01!"
+	}
+
+}
